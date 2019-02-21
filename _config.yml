@@ -24,7 +24,7 @@ github_username:  duch11
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/midnight
+theme: 
 plugins:
   - jekyll-feed
 
